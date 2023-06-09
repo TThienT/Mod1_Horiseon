@@ -6,6 +6,8 @@ Keep an organized code is just as important as having functional code. As progra
 
 Application
 
+https://tthient.github.io/Mod1_Horiseon/
+
 Usage
 ![Home](https://github.com/TThienT/Mod1_Challenge/assets/125310070/2276332b-a837-4ef0-9bf5-c2320e2f2bd8)
 
